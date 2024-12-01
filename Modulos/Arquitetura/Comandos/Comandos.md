@@ -41,8 +41,8 @@
 - `docker rm <ID>`: Remove um contêiner.  
 
 ### Listagem
-docker image ls -a **lista todas imagens criadas no docker**
-docker container ls -a **lista todos containers criados no docker**
+- `docker image ls -a` Lista todas imagens criadas no docker.
+- `docker container ls -a` Lista todos containers criados no docker.
 
 ### Construção e Imagens
 - `docker build -t <nome>:<tag> .`: Cria uma imagem a partir de um Dockerfile.  
@@ -52,7 +52,6 @@ docker container ls -a **lista todos containers criados no docker**
 ### Manipulação de Arquivos
 - `docker cp <caminho_local> <ID_DO_CONTAINER>:<caminho_destino>`: Copia arquivos da máquina para o contêiner.  
 - `docker cp <ID_DO_CONTAINER>:<caminho_container> <caminho_local>`: Copia arquivos do contêiner para a máquina.
-
 
 ---
 
