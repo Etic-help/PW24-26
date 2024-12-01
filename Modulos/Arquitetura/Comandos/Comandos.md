@@ -22,7 +22,7 @@
 
 ---
 
-## 🪟 Comandos de Terminal Windows (CMD)
+## 🖥 Comandos de Terminal Windows (CMD)
 ### Navegação e Gestão de Arquivos
 - `dir`: Lista os arquivos e diretórios do diretório atual.  
 - `cd <diretório>`: Acessa o diretório especificado.  
