@@ -9,7 +9,7 @@
 - `pwd`: Mostra o diretório atual desde a /.  
 - `mkdir <nome>`: Cria um novo diretório.  
 - `rm <arquivo>`: Remove um arquivo.
-- `cat <arquivo>`: Consegue ver o contéudo do arquivo.  
+- `cat <arquivo>`: Mostra o contéudo do arquivo.  
 - `rm -r <diretório>`: Remove um diretório e seu conteúdo.  
 - `cp <origem> <destino>`: Copia arquivos ou diretórios.  
 - `mv <origem> <destino>`: Move ou renomeia arquivos/diretórios.
