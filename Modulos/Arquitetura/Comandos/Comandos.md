@@ -46,6 +46,7 @@
 
 ### Construção e Imagens
 - `docker build -t <nome>:<tag> .`: Cria uma imagem a partir de um Dockerfile.  
+- `docker run -it nome_da_imagem`: Permite a interação com o contêiner via terminal a partir da imagem especificada.
 - `docker images ls`: Lista todas as imagens locais.  
 - `docker rmi <ID>`: Remove uma imagem.  
 
