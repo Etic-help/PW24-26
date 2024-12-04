@@ -6,7 +6,6 @@ Este repositório foi criado para servir como um recurso central para os alunos 
 
 ## 👨‍💻 Autores
 
-- **Pedro Santos**  
 - **Nelson Zarate** 
 - **Lucas Cleminson**  
 
